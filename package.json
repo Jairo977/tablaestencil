@@ -1,5 +1,5 @@
 {
-  "name": "my-stencil-project",
+  "name": "my-unique-stencil-tabel",
   "version": "0.0.1",
   "description": "Stencil Component Starter",
   "main": "dist/index.cjs.js",
@@ -7,11 +7,11 @@
   "types": "dist/types/index.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
-  "unpkg": "dist/my-stencil-project/my-stencil-project.esm.js",
+  "unpkg": "dist/my-unique-stencil-tabel/my-unique-stencil-tabel.esm.js",
   "exports": {
     ".": {
-      "import": "./dist/my-stencil-project/my-stencil-project.esm.js",
-      "require": "./dist/my-stencil-project/my-stencil-project.cjs.js"
+      "import": "./dist/my-unique-stencil-tabel/my-unique-stencil-tabel.esm.js",
+      "require": "./dist/my-unique-stencil-tabel/my-unique-stencil-tabel.cjs.js"
     },
     "./my-component": {
       "import": "./dist/components/my-component.js",

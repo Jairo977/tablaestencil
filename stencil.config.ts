@@ -1,7 +1,7 @@
 import { Config } from '@stencil/core';
 
 export const config: Config = {
-  namespace: 'my-stencil-project',
+  namespace: 'my-unique-stencil-tabel',
   outputTargets: [
     {
       type: 'dist',
